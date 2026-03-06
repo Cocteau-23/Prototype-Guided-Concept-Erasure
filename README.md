@@ -1,5 +1,7 @@
 # Prototype-Guided Concept Erasure in Diffusion Models
 
+(CVPR2026) Yuze Cai, Jiahao Lu, Hongxiang Shi, Yichao Zhou, Hong Lu
+
 ## Installation
 
 
@@ -36,4 +38,15 @@ We have provided a script that covers the entire process from generating prompts
 
 ```latex
 bash run.sh
+```
+
+
+If you find our paper or this repo useful for your research, please consider citing:
+```
+@inproceedings{cai2026prototype,
+        title={Prototype-Guided Concept Erasure in Diffusion Models},
+        author={Cai, Yuze and Lu, Jiahao and Shi, Hongxiang and Zhou, Yichao and Lu, Hong},
+        booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+        year={2026}
+}
 ```
