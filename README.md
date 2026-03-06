@@ -1,9 +1,7 @@
 # Prototype-Guided Concept Erasure in Diffusion Models
----
 
 ## Installation
 
----
 
 ### Project Organization
 
@@ -31,7 +29,6 @@ pip install -r requirements.txt
 
 ## Run
 
----
 
 We have provided a script that covers the entire process from generating prompts, generating sample images, training, and erasing. 
 
